@@ -41,17 +41,17 @@ This assignment should prove that a student is able to:
 - [x] Initialize playwright and install project packages
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [x] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
-  - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
-  - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x] All the tasks of the "Specific requirements" section MUST be solved
+- [x] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
+- [x] Use `npm run test` to run all tests in the terminal
+- [x] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
+- [x] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
+- [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
+- [x] (Optional) Use `npm run show-report` to see the latest report in the browser
+- [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [x] The code MUST be formatted with Prettier
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -88,13 +88,13 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] The page heading should have the id of "candidate-name"
 - [x] The desired role section heading should the id of "candidate-desired-role"
 - [x] The "About me" section heading should have an id of "about-me".
-- [ ] The image should have the id of "candidate-image"
-- [ ] The bio paragraph should have a class name of "candidate-bio"
-- [ ] The skills section heading should have the id of "skills"
-- [ ] The skills list should have the id of "skills-list"
+- [x] The image should have the id of "candidate-image"
+- [x] The bio paragraph should have a class name of "candidate-bio"
+- [x] The skills section heading should have the id of "skills"
+- [x] The skills list should have the id of "skills-list"
 - [ ] The Hobbies section heading should have the id of "hobbies"
-- [ ] The hobbies list should have the id of "hobbies-list"
+- [x] The hobbies list should have the id of "hobbies-list"
 - [x] The contacts section heading should have the id of "contacts"
 - [x] The contacts table should have a class name of "contacts-table".
 - [x] The body should have a class name of "fancy-body".
-- [ ] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
+- [x] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
